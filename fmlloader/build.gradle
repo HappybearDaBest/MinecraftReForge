@@ -59,11 +59,11 @@ ext {
         ] as LinkedHashMap,
         'net/minecraftforge/fml/loading/': [
             'Specification-Title':      'FMLLoader',
-            'Specification-Vendor':     'Forge Development LLC',
+            'Specification-Vendor':     'ReForge Development',
             'Specification-Version':    '1',
             'Implementation-Title':     'FML Loader',
             'Implementation-Version':   '1.0',
-            'Implementation-Vendor':    'Forge'
+            'Implementation-Vendor':    'ReForge'
         ] as LinkedHashMap
     ]
 }
